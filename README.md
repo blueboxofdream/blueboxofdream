@@ -7,7 +7,7 @@
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: Too lazy to say 'NO'
 
-###Skill
+### Skill 😌
 - Programming Languages:
   Java, Python, C
 - Web Development:
