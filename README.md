@@ -7,11 +7,11 @@
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: Too lazy to say 'NO'
 
-  ##Skill
+###Skill
 - Programming Languages:
-  Java, Python, C, C++
+  Java, Python, C
 - Web Development:
-  HTML, CSS, JavaScript
+  HTML, CSS, JavaScript, ReactJS
 - Database:
   MySQL, MongoDB
 - Version Control:
