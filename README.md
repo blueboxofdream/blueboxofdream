@@ -7,6 +7,18 @@
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: Too lazy to say 'NO'
 
+  ##Skill
+- Programming Languages:
+  Java, Python, C, C++
+- Web Development:
+  HTML, CSS, JavaScript
+- Database:
+  MySQL, MongoDB
+- Version Control:
+  Git, GitHub
+- Problem Solving:
+  Data Structures, Algorithms
+
 <!--
 **blueboxofdream/blueboxofdream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
